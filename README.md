@@ -6,6 +6,9 @@ A premium, framework-agnostic admin menu for FiveM — built with **React + Tail
 
 ---
 
+<img width="799" height="517" alt="image" src="https://github.com/user-attachments/assets/4cd1e928-9e5e-429a-98b8-1e070ff6ca43" />
+
+
 ## ✨ Highlights
 
 - **Works with any framework** — auto-detects ESX, QBCore, Qbox, ND, or runs fully **standalone**. No framework? No problem.
