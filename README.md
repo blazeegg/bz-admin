@@ -6,7 +6,7 @@ A premium, framework-agnostic admin menu for FiveM — built with **React + Tail
 
 ---
 
-<img width="799" height="517" alt="image" src="https://github.com/user-attachments/assets/4cd1e928-9e5e-429a-98b8-1e070ff6ca43" />
+<img width="1559" height="1009" alt="bzadmin" src="https://github.com/user-attachments/assets/ad545bb0-a88f-4186-99f5-0154142dcb81" />
 
 
 ## ✨ Highlights
