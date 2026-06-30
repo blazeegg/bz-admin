@@ -162,9 +162,3 @@ The UI is plain React + Tailwind — components live in `web/src/components`, de
 | **Bans don't persist after restart** | Set `Config.Database = true` and ensure `oxmysql` is running. |
 | **Discord names/roles not showing** | Set the bot `token` + `guild` in `server/sv_config.lua`; the bot must be a member of your guild. |
 | **Server console does nothing** | It's off by default — set `Config.AllowServerConsole = true`. |
-
----
-
-## 📄 License
-
-The **framework bridge** (`bridge/`) is released under the **MIT License** (see `bridge/LICENSE`) so anyone can build and share adapters. The rest of bz-admin is a commercial product — see `LICENSE`. Author: **Blazeeot**.
