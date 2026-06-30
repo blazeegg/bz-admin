@@ -14,10 +14,8 @@ A premium, framework-agnostic admin menu for FiveM — built with **React + Tail
 - **Works with any framework** — auto-detects ESX, QBCore, Qbox, ND, or runs fully **standalone**. No framework? No problem.
 - **Open bridge** — add support for *your* framework by dropping a single file in `bridge/frameworks/`. No core edits. ([guide](docs/BRIDGE.md))
 - **Beautiful, hand-crafted UI** — React + Tailwind + Framer Motion. Dark, fast, premium typography, fully re-brandable accent + logo.
-- **Tiered permissions** — role hierarchy resolved from ACE, Discord ID, Discord role, identifier or framework group. Admins can never act on someone who outranks them.
-- **Secure by design** — every privileged action is re-validated server-side through a single rate-limited RPC bus. All free text is sanitized; IPs are hidden by default.
 - **Database optional** — uses oxmysql if present, otherwise a built-in KVP JSON store. Boots even with no database at all.
-- **Rich logging** — Discord webhooks **and** an in-menu live log that shows the Discord name/ID of the admin and the Discord name + FiveM license of the target, click-to-copy.
+- **Logging** — Discord webhooks **and** an in-menu live log that shows the Discord name/ID of the admin and the Discord name + FiveM license of the target, click-to-copy.
 
 ## 📋 Requirements
 
